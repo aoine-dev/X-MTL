@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 Please prepare the `datasets` and `pre-trained models` according to the file structure below. 
 
-> Data can be obtained from [previous work](https://github.com/limanling/m2e2) or directly downloaded from our [netdisk](https://pan.quark.cn/s/1d959743dadb).
+> Data can be obtained from [previous work](https://github.com/limanling/m2e2) or directly downloaded from our netdisk [[Quark]](https://pan.quark.cn/s/1d959743dadb).
 
 ```
 ├── data
@@ -100,3 +100,16 @@ Please prepare the `datasets` and `pre-trained models` according to the file str
   ```
   python xmtl.py
   ```
+---
+
+## Citation
+If you find our work useful in your research, please consider citing: 
+```
+@article{Cao_Hu_Tan_Zhao_2025,
+  author       = {Cao, Jianwei and Hu, Yanli and Tan, Zhen and Zhao, Xiang},
+  title        = {Cross-modal Multi-task Learning for Multimedia Event Extraction},
+  journal      = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  year         = {2025},
+  pages        = {11454--11462}
+}
+```
